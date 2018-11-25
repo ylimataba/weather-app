@@ -4,8 +4,12 @@ Weather app
 React app to search current temperature in given city.
 
 If the temperature is over 0 Celsius, black colour is displayed.
+
 If the value is under 0 Celsius, blue colour is displayed.
+
 If temperature is over 25 celsius, red colour is displayed.
+
+![Screen shot of the app](Screenshot.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
