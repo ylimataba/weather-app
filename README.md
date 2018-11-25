@@ -9,7 +9,7 @@ If the value is under 0 Celsius, blue colour is displayed.
 
 If temperature is over 25 celsius, red colour is displayed.
 
-![Screen shot of the app](Screenshot.png?raw=true Screenshot of the app)
+![Screen shot of the app](Screenshot.png?raw=true "Screenshot of the app")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
